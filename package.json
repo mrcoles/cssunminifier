@@ -1,13 +1,12 @@
 {
-    name: 'cssunminifier',
-    description: 'Make minified CSS readable.',
-    url: 'http://mrcoles.com/blog/unminify-css/',
-    keywords: ['css', 'unminify', 'unminifier'],
-    author: 'Peter Coles <peter@mrcoles.com>',
-    contributors: [],
-    version: '0.0.1',
-    bin : {'cssunminifier': './bin/cssunminifier'},
-    main: './lib/cssunminifier',
-    //directories: {'test': './test'},
-    engines: {node: '>=0.4.0'}
+    "name": "cssunminifier",
+    "description": "Make minified CSS readable.",
+    "url": "http://mrcoles.com/blog/unminify-css/",
+    "keywords": ["css", "unminify", "unminifier"],
+    "author": "Peter Coles <peter@mrcoles.com>",
+    "contributors": [],
+    "version": "0.0.1",
+    "bin" : {"cssunminifier": "./bin/cssunminifier"},
+    "main": "./lib/cssunminifier",
+    "engines": {"node": ">=0.4.0"}
 }

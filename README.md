@@ -4,6 +4,10 @@ CSS Unminifier
 
 A simple utility written in javascript for node.js to unminify CSS. The script is converted from the [MrColes.com browser-based css unminifier](http://mrcoles.com/blog/css-unminify/).
 
+Install the script with npm:
+
+    npm install cssunminifier
+
 Run this to print out an unminified version of a CSS file named style.min.css:
 
     cssunminifier style.min.css

@@ -1,7 +1,7 @@
 {
     "name": "cssunminifier",
     "description": "Make minified CSS readable.",
-    "url": "http://mrcoles.com/blog/unminify-css/",
+    "url": "http://mrcoles.com/blog/css-unminify/",
     "keywords": ["css", "unminify", "unminifier"],
     "author": "Peter Coles <peter@mrcoles.com>",
     "contributors": [],
